@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![frikilinux's Stats](https://github-readme-stats.vercel.app/api?username=frikilinux&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![frikilinux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frikilinux&theme=algolia&hide_border=true)
 
 <!--
