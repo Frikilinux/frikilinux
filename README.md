@@ -2,7 +2,7 @@
 
 ![frikilinux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frikilinux&theme=algolia&hide_border=true)
 
-## known technologies
+## Knowing technologies
 
 
 
